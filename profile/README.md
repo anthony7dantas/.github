@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👨‍💻 Projetos em Linguagem SQL 💾 [https://github.com/anthony7dantas/portifolio_sql/tree/main](https://github.com/anthony7dantas/portifolio_sql/tree/main)
+- 👨‍💻 Projetos em Linguagem SQL 💾 [Clique aqui para visualizar](https://github.com/anthony7dantas/portifolio_sql/tree/main)
 
 - 💬 Me pergunte sobre **SQL, VBA, DAX, Scrum, Kanban**
 

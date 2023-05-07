@@ -9,6 +9,8 @@
 
 - 📫 Você me encontra através do e-mail **anthonydantas777@hotmail.com**
 
+- 👨‍💻 Projetos em Linguagem SQL 💾 [https://github.com/anthony7dantas/portifolio_sql/tree/main)
+
 - 📄 Confira mais um pouco sobre [https://www.linkedin.com/in/anthonydantas/](https://www.linkedin.com/in/anthonydantas/)
 
 - ⚡ Fun fact **I love music and pagodinho 😁🪕**

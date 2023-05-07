@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Anthony Dantas</h1>
-<h3 align="center">Projeto de Análise de Dados - Análise de um E-commerce de Venda de Veículos</h3>
+<h3 align="center">Analista de Dados | Analista de BI | Analista de negócios | Marketing Analytics | SQL | Power BI |</h3>
 
 - 🔭 Atualmente estou trabalhando com projetos na [Data Mundo](https://www.linkedin.com/feed/update/urn:li:activity:7038851519865085952/)
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👨‍💻 Projetos em Linguagem SQL 💾 [Clique aqui para visualizar](https://github.com/anthony7dantas/portifolio_sql/tree/main)
+- 👨‍💻 Projetos em Linguagem SQL 💾 [https://github.com/anthony7dantas/portifolio_sql/tree/main](https://github.com/anthony7dantas/portifolio_sql/tree/main)
 
 - 💬 Me pergunte sobre **SQL, VBA, DAX, Scrum, Kanban**
 

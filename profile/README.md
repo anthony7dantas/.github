@@ -1,26 +1,60 @@
-<h1 align="center">Olá 👋, Eu sou o Anthony Dantas</h1>
-<h3 align="center">Analista de Dados | Analista de BI | Analista de negócios | Marketing Analytics | SQL | Power BI |</h3>
+<h1 align="center">Olá! 👋 Eu sou Anthony Dantas</h1>
 
-- 🔭 Atualmente estou trabalhando com projetos na [Data Mundo](https://www.linkedin.com/feed/update/urn:li:activity:7038851519865085952/)
+<h3 align="center"> Analista de Dados | Business Intelligence | Marketing Analytics </h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+<p align="center"> Transformando dados em informações estruturadas para apoiar decisões de negócio. </p>
 
-- 👨‍💻 Projetos em Linguagem SQL 💾 [Clique aqui para visualizar](https://github.com/anthony7dantas/portifolio_sql/tree/main)
+👨‍💻 Sobre mim
 
-- 💬 Me pergunte sobre **SQL, VBA, DAX, Scrum, Kanban**
+Atuo na área de Dados e Business Intelligence, com experiência em análise, integração, validação e modelagem de dados em ambientes corporativos.
 
-- 📫 Você me encontra através do e-mail **anthonydantas777@hotmail.com**
+Minha experiência envolve SQL, Power BI, QlikView, ETL, bancos de dados relacionais e NoSQL, além do desenvolvimento de dashboards, indicadores e relatórios gerenciais.
 
-- 📄 Confira mais um pouco sobre [https://www.linkedin.com/in/anthonydantas/](https://www.linkedin.com/in/anthonydantas/)
+Ao longo da minha trajetória, apoiei áreas como Marketing, Comercial, Jurídico, Financeiro e Operações, transformando dados em informações estruturadas para suporte à tomada de decisão.
 
-- ⚡ Fun fact **I love music and pagodinho 😁🪕**
+Também tenho experiência com otimização de queries, integração entre sistemas legados e ambientes modernos, qualidade de dados, CRM, comportamento do consumidor e análise de performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthonydantas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthonydantas/" height="30" width="40" /></a>
-</p>
+Atualmente, curso Ciência de Dados e sigo ampliando meus conhecimentos em Data Science, Marketing Science e Inteligência Artificial, com foco no desenvolvimento de soluções analíticas e automação.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+📊 Experiência e resultados
+🔄 Contribuição na modernização e validação de dados entre sistemas legados baseados em COBOL/DB2 e novos ambientes utilizando MongoDB e microserviços.
+⚙️ Automação de processos de distribuição de relatórios e informações utilizando ferramentas como NPrinting.
+📈 Desenvolvimento de dashboards e indicadores para acompanhamento de performance, campanhas, conversão e engajamento.
+💡 Apoio às áreas de negócio na tomada de decisão por meio de análises exploratórias, relatórios e indicadores estratégicos.
+🚀 Melhoria de processos de dados com foco em automação, redução de retrabalho e eficiência operacional.
+🛠️ Competências técnicas
+Dados & Business Intelligence
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony7dantas&show_icons=true&locale=en&layout=compact" alt="anthony7dantas" /></p>
+SQL Power BI QlikView ETL Modelagem de Dados Business Intelligence
+
+Bancos de dados
+
+SQL Server MongoDB DB2 MySQL PostgreSQL Oracle SQLite
+
+Analytics & Desenvolvimento
+
+Python DAX VBA Marketing Analytics Data Analytics
+
+Metodologias
+
+Scrum Kanban Agile
+
+🚀 Projetos em destaque
+🗄️ Portfólio SQL
+
+Projetos desenvolvidos para demonstrar conhecimentos em SQL, análise de dados, consultas, manipulação e exploração de bases de dados.
+
+👉 Acessar portfólio SQL
+
+🎓 Atualmente estudando
+🐍 Python para Dados
+🤖 Machine Learning
+🧠 Data Science
+📣 Marketing Science
+✨ Inteligência Artificial
+📫 Contato
+💼 LinkedIn: linkedin.com/in/anthonydantas
+📧 E-mail: contato.anthony.dantas@gmail.com
+🎵 Além dos dados...
+
+Apaixonado por música e, claro, um bom pagodinho. 😁🪕
